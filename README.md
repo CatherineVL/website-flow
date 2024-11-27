@@ -6,3 +6,4 @@ Vache qui rit
 Kiri
 Mimolette
 Chèvre
+Babybel
